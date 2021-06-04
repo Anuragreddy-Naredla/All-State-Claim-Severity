@@ -5,4 +5,7 @@ Allstate is an largest insurance company in the United States of America. This i
 https://www.kaggle.com/c/allstate-claims-severity/data
 #### Performance metrics:
 MAE(Mean Absolute Error)
+#### Feature Engineering
+a.PCA
+b.SVD
 #### For Details check my blog :https://anuragreddy1241.medium.com/all-state-claim-severity-fbdbd14ee199
